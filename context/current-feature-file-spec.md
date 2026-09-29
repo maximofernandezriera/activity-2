@@ -4,7 +4,7 @@
 
 - El descriptor es @context/current-feature.md.
 - El nombre de la feature es el encabezado de primer nivel.
-- Contiene una sección `## Objetivos` que puede contener requisitos, requisitos técnicos, criterios de aceptación y otras subsecciones que se crean convenientes.
+- Contiene una sección `## Objetivos` que puede contener requisitos, requisitos técnicos, criterios de aceptación y otras subsecciones que se consideren convenientes.
 - Contiene una sección `## Notas` que puede contener notas adicionales.
 - Contiene una sección `## Histórico` que contiene una lista de entradas ordenadas de la más reciente a la más antigua.
 
